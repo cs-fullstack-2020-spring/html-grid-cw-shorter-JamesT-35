@@ -3,7 +3,7 @@ display: grid;
 grid-template-columns: 200px 200px 200px;
 background-color: gray;
 }
-
+/* elements are lower case and if you don't use the tag name you have to select them by id or class*/
 Header{
 
 }
